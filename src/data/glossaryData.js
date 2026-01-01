@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 17)
+// Automatically generated AI/ML Glossary data (index: 18)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -12,7 +12,7 @@ export const glossary = [
   },
   {
     "term": "Reinforcement Learning",
-    "definition": "An agent learning behavior in an environment by maximizing rewards.",
+    "definition": "An agent learning behavior in an environment by maximizing rewards. (updated reference)",
     "category": "General ML"
   }
 ];

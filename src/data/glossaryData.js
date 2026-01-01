@@ -1,8 +1,13 @@
-// Automatically generated AI/ML Glossary data (index: 8)
+// Automatically generated AI/ML Glossary data (index: 9)
 export const glossary = [
   {
     "term": "Supervised Learning",
     "definition": "A machine learning paradigm where the model is trained on input-output pairs. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "Unsupervised Learning",
+    "definition": "Training a model to find patterns in data without explicit labels.",
     "category": "General ML"
   }
 ];

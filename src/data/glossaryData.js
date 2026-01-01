@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 9)
+// Automatically generated AI/ML Glossary data (index: 10)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -7,7 +7,7 @@ export const glossary = [
   },
   {
     "term": "Unsupervised Learning",
-    "definition": "Training a model to find patterns in data without explicit labels.",
+    "definition": "Training a model to find patterns in data without explicit labels. (updated reference)",
     "category": "General ML"
   }
 ];

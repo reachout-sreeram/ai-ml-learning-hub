@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 40)
+// Automatically generated AI/ML Glossary data (index: 41)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -24,5 +24,10 @@ export const glossary = [
     "term": "Underfitting",
     "definition": "A model failing to capture the underlying structure of the training data. (updated reference)",
     "category": "General ML"
+  },
+  {
+    "term": "Neural Network",
+    "definition": "A system of interconnected nodes modeled after biological brain cells.",
+    "category": "Deep Learning"
   }
 ];

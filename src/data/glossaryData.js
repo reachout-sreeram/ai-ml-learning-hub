@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 57)
+// Automatically generated AI/ML Glossary data (index: 58)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -37,7 +37,7 @@ export const glossary = [
   },
   {
     "term": "Gradient Descent",
-    "definition": "An optimization algorithm used to find the minimum of a function.",
+    "definition": "An optimization algorithm used to find the minimum of a function. (updated reference)",
     "category": "General ML"
   }
 ];

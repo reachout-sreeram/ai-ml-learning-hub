@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 41)
+// Automatically generated AI/ML Glossary data (index: 42)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -27,7 +27,7 @@ export const glossary = [
   },
   {
     "term": "Neural Network",
-    "definition": "A system of interconnected nodes modeled after biological brain cells.",
+    "definition": "A system of interconnected nodes modeled after biological brain cells. (updated reference)",
     "category": "Deep Learning"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 56)
+// Automatically generated AI/ML Glossary data (index: 57)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -34,5 +34,10 @@ export const glossary = [
     "term": "Backpropagation",
     "definition": "An algorithm for calculating gradients of the loss function in networks. (updated reference)",
     "category": "Deep Learning"
+  },
+  {
+    "term": "Gradient Descent",
+    "definition": "An optimization algorithm used to find the minimum of a function.",
+    "category": "General ML"
   }
 ];

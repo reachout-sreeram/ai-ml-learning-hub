@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 89)
+// Automatically generated AI/ML Glossary data (index: 90)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -53,6 +53,11 @@ export const glossary = [
   {
     "term": "Large Language Model",
     "definition": "A deep learning model trained on massive text corpora. (updated reference)",
+    "category": "NLP"
+  },
+  {
+    "term": "Fine-Tuning",
+    "definition": "Training a pre-trained model further on a target dataset.",
     "category": "NLP"
   }
 ];

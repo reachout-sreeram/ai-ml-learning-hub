@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 81)
+// Automatically generated AI/ML Glossary data (index: 82)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -48,6 +48,11 @@ export const glossary = [
   {
     "term": "Self-Attention",
     "definition": "An attention mechanism mapping query and key-value pairs. (updated reference)",
+    "category": "NLP"
+  },
+  {
+    "term": "Large Language Model",
+    "definition": "A deep learning model trained on massive text corpora.",
     "category": "NLP"
   }
 ];

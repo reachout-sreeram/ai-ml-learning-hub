@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 72)
+// Automatically generated AI/ML Glossary data (index: 73)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -43,6 +43,11 @@ export const glossary = [
   {
     "term": "Transformer",
     "definition": "A neural network architecture utilizing self-attention mechanisms. (updated reference)",
+    "category": "NLP"
+  },
+  {
+    "term": "Self-Attention",
+    "definition": "An attention mechanism mapping query and key-value pairs.",
     "category": "NLP"
   }
 ];

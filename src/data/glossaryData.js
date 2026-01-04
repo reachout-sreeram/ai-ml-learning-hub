@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 113)
+// Automatically generated AI/ML Glossary data (index: 114)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -68,6 +68,11 @@ export const glossary = [
   {
     "term": "Recurrent Network",
     "definition": "A neural network featuring feedback loops to process sequential data. (updated reference)",
+    "category": "Deep Learning"
+  },
+  {
+    "term": "Adversarial Network",
+    "definition": "Generative framework using two competing neural networks.",
     "category": "Deep Learning"
   }
 ];

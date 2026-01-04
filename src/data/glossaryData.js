@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 137)
+// Automatically generated AI/ML Glossary data (index: 138)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -84,5 +84,10 @@ export const glossary = [
     "term": "Loss Function",
     "definition": "A function measuring the error between model predictions and target values. (updated reference)",
     "category": "General ML"
+  },
+  {
+    "term": "Activation Function",
+    "definition": "Mathematical formula determining neural network node outputs.",
+    "category": "Deep Learning"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 98)
+// Automatically generated AI/ML Glossary data (index: 99)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -62,7 +62,7 @@ export const glossary = [
   },
   {
     "term": "Convolutional Network",
-    "definition": "A neural network designed for grid-structured data like images.",
+    "definition": "A neural network designed for grid-structured data like images. (updated reference)",
     "category": "Computer Vision"
   }
 ];

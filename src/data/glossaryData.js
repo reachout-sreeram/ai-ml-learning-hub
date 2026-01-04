@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 122)
+// Automatically generated AI/ML Glossary data (index: 123)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -77,7 +77,7 @@ export const glossary = [
   },
   {
     "term": "Regularization",
-    "definition": "Techniques used to prevent overfitting by adding penalty terms.",
+    "definition": "Techniques used to prevent overfitting by adding penalty terms. (updated reference)",
     "category": "General ML"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 121)
+// Automatically generated AI/ML Glossary data (index: 122)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -74,5 +74,10 @@ export const glossary = [
     "term": "Adversarial Network",
     "definition": "Generative framework using two competing neural networks. (updated reference)",
     "category": "Deep Learning"
+  },
+  {
+    "term": "Regularization",
+    "definition": "Techniques used to prevent overfitting by adding penalty terms.",
+    "category": "General ML"
   }
 ];

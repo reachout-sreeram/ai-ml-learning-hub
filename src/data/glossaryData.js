@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 138)
+// Automatically generated AI/ML Glossary data (index: 139)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -87,7 +87,7 @@ export const glossary = [
   },
   {
     "term": "Activation Function",
-    "definition": "Mathematical formula determining neural network node outputs.",
+    "definition": "Mathematical formula determining neural network node outputs. (updated reference)",
     "category": "Deep Learning"
   }
 ];

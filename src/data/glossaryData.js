@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 154)
+// Automatically generated AI/ML Glossary data (index: 155)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -93,6 +93,11 @@ export const glossary = [
   {
     "term": "Epoch",
     "definition": "One full training iteration over the entire dataset. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "Batch Size",
+    "definition": "Number of training examples used in a single iteration.",
     "category": "General ML"
   }
 ];

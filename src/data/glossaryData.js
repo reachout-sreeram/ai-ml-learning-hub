@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 162)
+// Automatically generated AI/ML Glossary data (index: 163)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -98,6 +98,11 @@ export const glossary = [
   {
     "term": "Batch Size",
     "definition": "Number of training examples used in a single iteration. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "Learning Rate",
+    "definition": "Step size factor used in gradient descent weight updates.",
     "category": "General ML"
   }
 ];

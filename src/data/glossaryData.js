@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 178)
+// Automatically generated AI/ML Glossary data (index: 179)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -108,6 +108,11 @@ export const glossary = [
   {
     "term": "Dropout",
     "definition": "Regularization technique that randomly disables neurons during training. (updated reference)",
+    "category": "Deep Learning"
+  },
+  {
+    "term": "Batch Normalization",
+    "definition": "Normalizing layer inputs to speed up neural network training.",
     "category": "Deep Learning"
   }
 ];

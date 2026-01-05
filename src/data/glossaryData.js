@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 170)
+// Automatically generated AI/ML Glossary data (index: 171)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -104,5 +104,10 @@ export const glossary = [
     "term": "Learning Rate",
     "definition": "Step size factor used in gradient descent weight updates. (updated reference)",
     "category": "General ML"
+  },
+  {
+    "term": "Dropout",
+    "definition": "Regularization technique that randomly disables neurons during training.",
+    "category": "Deep Learning"
   }
 ];

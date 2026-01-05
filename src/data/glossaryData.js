@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 155)
+// Automatically generated AI/ML Glossary data (index: 156)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -97,7 +97,7 @@ export const glossary = [
   },
   {
     "term": "Batch Size",
-    "definition": "Number of training examples used in a single iteration.",
+    "definition": "Number of training examples used in a single iteration. (updated reference)",
     "category": "General ML"
   }
 ];

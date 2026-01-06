@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 210)
+// Automatically generated AI/ML Glossary data (index: 211)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -128,6 +128,11 @@ export const glossary = [
   {
     "term": "Decision Tree",
     "definition": "Flowchart-like structure used for classification and regression. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "Random Forest",
+    "definition": "Ensemble learning method combining multiple decision trees.",
     "category": "General ML"
   }
 ];

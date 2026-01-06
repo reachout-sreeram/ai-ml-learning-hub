@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 187)
+// Automatically generated AI/ML Glossary data (index: 188)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -117,7 +117,7 @@ export const glossary = [
   },
   {
     "term": "Linear Regression",
-    "definition": "Predicting a continuous target variable using a linear relationship.",
+    "definition": "Predicting a continuous target variable using a linear relationship. (updated reference)",
     "category": "General ML"
   }
 ];

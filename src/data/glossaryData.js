@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 219)
+// Automatically generated AI/ML Glossary data (index: 220)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -137,7 +137,7 @@ export const glossary = [
   },
   {
     "term": "Support Vector Machine",
-    "definition": "Finding a hyperplane that maximizes separation between classes.",
+    "definition": "Finding a hyperplane that maximizes separation between classes. (updated reference)",
     "category": "General ML"
   }
 ];

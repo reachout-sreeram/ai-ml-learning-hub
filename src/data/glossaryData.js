@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 202)
+// Automatically generated AI/ML Glossary data (index: 203)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -123,6 +123,11 @@ export const glossary = [
   {
     "term": "Logistic Regression",
     "definition": "Classification algorithm modeling class probabilities. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "Decision Tree",
+    "definition": "Flowchart-like structure used for classification and regression.",
     "category": "General ML"
   }
 ];

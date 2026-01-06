@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 186)
+// Automatically generated AI/ML Glossary data (index: 187)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -114,5 +114,10 @@ export const glossary = [
     "term": "Batch Normalization",
     "definition": "Normalizing layer inputs to speed up neural network training. (updated reference)",
     "category": "Deep Learning"
+  },
+  {
+    "term": "Linear Regression",
+    "definition": "Predicting a continuous target variable using a linear relationship.",
+    "category": "General ML"
   }
 ];

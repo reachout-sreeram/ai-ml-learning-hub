@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 218)
+// Automatically generated AI/ML Glossary data (index: 219)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -133,6 +133,11 @@ export const glossary = [
   {
     "term": "Random Forest",
     "definition": "Ensemble learning method combining multiple decision trees. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "Support Vector Machine",
+    "definition": "Finding a hyperplane that maximizes separation between classes.",
     "category": "General ML"
   }
 ];

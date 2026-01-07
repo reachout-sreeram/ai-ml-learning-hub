@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 251)
+// Automatically generated AI/ML Glossary data (index: 252)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -153,6 +153,11 @@ export const glossary = [
   {
     "term": "Precision",
     "definition": "Ratio of true positive predictions to total predicted positives. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "Recall",
+    "definition": "Ratio of true positive predictions to actual positives.",
     "category": "General ML"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 236)
+// Automatically generated AI/ML Glossary data (index: 237)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -147,7 +147,7 @@ export const glossary = [
   },
   {
     "term": "Principal Component Analysis",
-    "definition": "Dimensionality reduction technique projecting data onto principal axes.",
+    "definition": "Dimensionality reduction technique projecting data onto principal axes. (updated reference)",
     "category": "General ML"
   }
 ];

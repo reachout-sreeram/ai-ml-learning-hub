@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 268)
+// Automatically generated AI/ML Glossary data (index: 269)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -167,7 +167,7 @@ export const glossary = [
   },
   {
     "term": "Confusion Matrix",
-    "definition": "Table layout showing actual vs predicted classification values.",
+    "definition": "Table layout showing actual vs predicted classification values. (updated reference)",
     "category": "General ML"
   }
 ];

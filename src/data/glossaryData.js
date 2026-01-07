@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 245)
+// Automatically generated AI/ML Glossary data (index: 246)
 export const glossary = [
   {
     "term": "Supervised Learning",

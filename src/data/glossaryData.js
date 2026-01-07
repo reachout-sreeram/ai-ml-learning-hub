@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 235)
+// Automatically generated AI/ML Glossary data (index: 236)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -143,6 +143,11 @@ export const glossary = [
   {
     "term": "K-Means Clustering",
     "definition": "Partitioning data points into K clusters based on distance. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "Principal Component Analysis",
+    "definition": "Dimensionality reduction technique projecting data onto principal axes.",
     "category": "General ML"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 267)
+// Automatically generated AI/ML Glossary data (index: 268)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -163,6 +163,11 @@ export const glossary = [
   {
     "term": "F1 Score",
     "definition": "Harmonic mean of precision and recall. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "Confusion Matrix",
+    "definition": "Table layout showing actual vs predicted classification values.",
     "category": "General ML"
   }
 ];

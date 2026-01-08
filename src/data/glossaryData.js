@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 284)
+// Automatically generated AI/ML Glossary data (index: 285)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -177,7 +177,7 @@ export const glossary = [
   },
   {
     "term": "Cross-Validation",
-    "definition": "Splitting dataset into multiple folds to evaluate model generalization.",
+    "definition": "Splitting dataset into multiple folds to evaluate model generalization. (updated reference)",
     "category": "General ML"
   }
 ];

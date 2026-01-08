@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 283)
+// Automatically generated AI/ML Glossary data (index: 284)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -173,6 +173,11 @@ export const glossary = [
   {
     "term": "ROC-AUC",
     "definition": "Receiver Operating Characteristic curve and Area Under the Curve. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "Cross-Validation",
+    "definition": "Splitting dataset into multiple folds to evaluate model generalization.",
     "category": "General ML"
   }
 ];

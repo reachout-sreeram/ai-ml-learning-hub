@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 275)
+// Automatically generated AI/ML Glossary data (index: 276)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -168,6 +168,11 @@ export const glossary = [
   {
     "term": "Confusion Matrix",
     "definition": "Table layout showing actual vs predicted classification values. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "ROC-AUC",
+    "definition": "Receiver Operating Characteristic curve and Area Under the Curve.",
     "category": "General ML"
   }
 ];

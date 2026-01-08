@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 292)
+// Automatically generated AI/ML Glossary data (index: 293)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -182,7 +182,7 @@ export const glossary = [
   },
   {
     "term": "Bias-Variance Tradeoff",
-    "definition": "Balancing model bias and variance to minimize total error.",
+    "definition": "Balancing model bias and variance to minimize total error. (updated reference)",
     "category": "General ML"
   }
 ];

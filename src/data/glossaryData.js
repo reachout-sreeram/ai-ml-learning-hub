@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 324)
+// Automatically generated AI/ML Glossary data (index: 325)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -199,5 +199,10 @@ export const glossary = [
     "term": "Transfer Learning",
     "definition": "Applying knowledge from a pre-trained model to a new task. (updated reference)",
     "category": "Deep Learning"
+  },
+  {
+    "term": "RAG",
+    "definition": "Retrieval-Augmented Generation to ground LLMs in external documents.",
+    "category": "NLP"
   }
 ];

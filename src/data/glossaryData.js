@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 308)
+// Automatically generated AI/ML Glossary data (index: 309)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -189,5 +189,10 @@ export const glossary = [
     "term": "Hyperparameter",
     "definition": "Model configuration parameter set before the training process. (updated reference)",
     "category": "General ML"
+  },
+  {
+    "term": "Data Augmentation",
+    "definition": "Generating new training samples by applying transformations.",
+    "category": "Computer Vision"
   }
 ];

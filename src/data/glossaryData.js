@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 332)
+// Automatically generated AI/ML Glossary data (index: 333)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -203,6 +203,11 @@ export const glossary = [
   {
     "term": "RAG",
     "definition": "Retrieval-Augmented Generation to ground LLMs in external documents. (updated reference)",
+    "category": "NLP"
+  },
+  {
+    "term": "Embeddings",
+    "definition": "Dense vector representations of words, phrases, or data points.",
     "category": "NLP"
   }
 ];

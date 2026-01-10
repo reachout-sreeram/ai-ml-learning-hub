@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 365)
+// Automatically generated AI/ML Glossary data (index: 366)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -227,7 +227,7 @@ export const glossary = [
   },
   {
     "term": "Few-shot Learning",
-    "definition": "Providing a model with a small number of examples at inference.",
+    "definition": "Providing a model with a small number of examples at inference. (updated reference)",
     "category": "NLP"
   }
 ];

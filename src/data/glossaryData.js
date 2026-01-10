@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 372)
+// Automatically generated AI/ML Glossary data (index: 373)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -228,6 +228,11 @@ export const glossary = [
   {
     "term": "Few-shot Learning",
     "definition": "Providing a model with a small number of examples at inference. (updated reference)",
+    "category": "NLP"
+  },
+  {
+    "term": "RLHF",
+    "definition": "Reinforcement Learning from Human Feedback used to align models.",
     "category": "NLP"
   }
 ];

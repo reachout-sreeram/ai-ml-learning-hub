@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 382)
+// Automatically generated AI/ML Glossary data (index: 383)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -237,7 +237,7 @@ export const glossary = [
   },
   {
     "term": "Autoencoder",
-    "definition": "Unsupervised network trained to reconstruct its inputs.",
+    "definition": "Unsupervised network trained to reconstruct its inputs. (updated reference)",
     "category": "Deep Learning"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 381)
+// Automatically generated AI/ML Glossary data (index: 382)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -234,5 +234,10 @@ export const glossary = [
     "term": "RLHF",
     "definition": "Reinforcement Learning from Human Feedback used to align models. (updated reference)",
     "category": "NLP"
+  },
+  {
+    "term": "Autoencoder",
+    "definition": "Unsupervised network trained to reconstruct its inputs.",
+    "category": "Deep Learning"
   }
 ];

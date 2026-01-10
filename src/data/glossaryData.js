@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 364)
+// Automatically generated AI/ML Glossary data (index: 365)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -223,6 +223,11 @@ export const glossary = [
   {
     "term": "Zero-shot Learning",
     "definition": "A model classifying items it has not seen during training. (updated reference)",
+    "category": "NLP"
+  },
+  {
+    "term": "Few-shot Learning",
+    "definition": "Providing a model with a small number of examples at inference.",
     "category": "NLP"
   }
 ];

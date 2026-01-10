@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 356)
+// Automatically generated AI/ML Glossary data (index: 357)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -219,5 +219,10 @@ export const glossary = [
     "term": "Cosine Similarity",
     "definition": "Measuring similarity between two vectors using the cosine angle. (updated reference)",
     "category": "General ML"
+  },
+  {
+    "term": "Zero-shot Learning",
+    "definition": "A model classifying items it has not seen during training.",
+    "category": "NLP"
   }
 ];

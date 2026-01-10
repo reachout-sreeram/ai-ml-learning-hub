@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 340)
+// Automatically generated AI/ML Glossary data (index: 341)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -208,6 +208,11 @@ export const glossary = [
   {
     "term": "Embeddings",
     "definition": "Dense vector representations of words, phrases, or data points. (updated reference)",
+    "category": "NLP"
+  },
+  {
+    "term": "Vector Database",
+    "definition": "Database specialized in storing and querying vector embeddings.",
     "category": "NLP"
   }
 ];

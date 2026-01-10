@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 349)
+// Automatically generated AI/ML Glossary data (index: 350)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -217,7 +217,7 @@ export const glossary = [
   },
   {
     "term": "Cosine Similarity",
-    "definition": "Measuring similarity between two vectors using the cosine angle.",
+    "definition": "Measuring similarity between two vectors using the cosine angle. (updated reference)",
     "category": "General ML"
   }
 ];

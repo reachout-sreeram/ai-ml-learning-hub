@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 390)
+// Automatically generated AI/ML Glossary data (index: 391)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -242,7 +242,7 @@ export const glossary = [
   },
   {
     "term": "Boosting",
-    "definition": "Ensemble technique training models sequentially to correct errors.",
+    "definition": "Ensemble technique training models sequentially to correct errors. (updated reference)",
     "category": "General ML"
   }
 ];

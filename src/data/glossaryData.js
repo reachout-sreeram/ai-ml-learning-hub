@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 397)
+// Automatically generated AI/ML Glossary data (index: 398)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -243,6 +243,11 @@ export const glossary = [
   {
     "term": "Boosting",
     "definition": "Ensemble technique training models sequentially to correct errors. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "Gradient Boosting",
+    "definition": "Ensemble boosting algorithm using gradient descent for loss.",
     "category": "General ML"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 413)
+// Automatically generated AI/ML Glossary data (index: 414)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -253,6 +253,11 @@ export const glossary = [
   {
     "term": "Embedding Space",
     "definition": "High-dimensional space where vector embeddings are mapped. (updated reference)",
+    "category": "NLP"
+  },
+  {
+    "term": "Word2Vec",
+    "definition": "Framework for learning dense word embeddings from large corpora.",
     "category": "NLP"
   }
 ];

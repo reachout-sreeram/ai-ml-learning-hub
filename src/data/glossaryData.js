@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 422)
+// Automatically generated AI/ML Glossary data (index: 423)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -262,7 +262,7 @@ export const glossary = [
   },
   {
     "term": "BERT",
-    "definition": "Bidirectional Encoder Representations from Transformers by Google.",
+    "definition": "Bidirectional Encoder Representations from Transformers by Google. (updated reference)",
     "category": "NLP"
   }
 ];

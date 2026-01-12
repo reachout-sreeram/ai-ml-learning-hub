@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 446)
+// Automatically generated AI/ML Glossary data (index: 447)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -277,7 +277,7 @@ export const glossary = [
   },
   {
     "term": "LangChain",
-    "definition": "Framework for building applications with LLMs through chaining.",
+    "definition": "Framework for building applications with LLMs through chaining. (updated reference)",
     "category": "NLP"
   }
 ];

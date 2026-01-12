@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 445)
+// Automatically generated AI/ML Glossary data (index: 446)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -273,6 +273,11 @@ export const glossary = [
   {
     "term": "LLaMA",
     "definition": "Open-source large language model family developed by Meta. (updated reference)",
+    "category": "NLP"
+  },
+  {
+    "term": "LangChain",
+    "definition": "Framework for building applications with LLMs through chaining.",
     "category": "NLP"
   }
 ];

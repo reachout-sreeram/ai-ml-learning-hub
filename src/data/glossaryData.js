@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 437)
+// Automatically generated AI/ML Glossary data (index: 438)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -268,6 +268,11 @@ export const glossary = [
   {
     "term": "GPT",
     "definition": "Generative Pre-trained Transformer model series by OpenAI. (updated reference)",
+    "category": "NLP"
+  },
+  {
+    "term": "LLaMA",
+    "definition": "Open-source large language model family developed by Meta.",
     "category": "NLP"
   }
 ];

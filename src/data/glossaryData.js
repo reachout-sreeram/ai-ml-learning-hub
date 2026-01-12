@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 421)
+// Automatically generated AI/ML Glossary data (index: 422)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -258,6 +258,11 @@ export const glossary = [
   {
     "term": "Word2Vec",
     "definition": "Framework for learning dense word embeddings from large corpora. (updated reference)",
+    "category": "NLP"
+  },
+  {
+    "term": "BERT",
+    "definition": "Bidirectional Encoder Representations from Transformers by Google.",
     "category": "NLP"
   }
 ];

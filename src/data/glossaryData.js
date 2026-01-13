@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 462)
+// Automatically generated AI/ML Glossary data (index: 463)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -283,6 +283,11 @@ export const glossary = [
   {
     "term": "Vector Search",
     "definition": "Finding nearest neighbor vectors using distance metrics. (updated reference)",
+    "category": "NLP"
+  },
+  {
+    "term": "Hallucination",
+    "definition": "LLM generating text that is factually incorrect or nonsensical.",
     "category": "NLP"
   }
 ];

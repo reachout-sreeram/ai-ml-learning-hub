@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 503)
+// Automatically generated AI/ML Glossary data (index: 504)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -312,7 +312,7 @@ export const glossary = [
   },
   {
     "term": "Quantization",
-    "definition": "Reducing precision of model weights to shrink size and speed up inference.",
+    "definition": "Reducing precision of model weights to shrink size and speed up inference. (updated reference)",
     "category": "Deep Learning"
   }
 ];

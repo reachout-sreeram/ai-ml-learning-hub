@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 502)
+// Automatically generated AI/ML Glossary data (index: 503)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -309,5 +309,10 @@ export const glossary = [
     "term": "One-Hot Encoding",
     "definition": "Representing categorical variables as binary vectors. (updated reference)",
     "category": "General ML"
+  },
+  {
+    "term": "Quantization",
+    "definition": "Reducing precision of model weights to shrink size and speed up inference.",
+    "category": "Deep Learning"
   }
 ];

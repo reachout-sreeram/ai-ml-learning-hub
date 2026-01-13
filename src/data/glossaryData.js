@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 487)
+// Automatically generated AI/ML Glossary data (index: 488)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -302,7 +302,7 @@ export const glossary = [
   },
   {
     "term": "Standardization",
-    "definition": "Scaling data to have zero mean and unit variance.",
+    "definition": "Scaling data to have zero mean and unit variance. (updated reference)",
     "category": "General ML"
   }
 ];

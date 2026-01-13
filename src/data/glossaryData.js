@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 463)
+// Automatically generated AI/ML Glossary data (index: 464)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -287,7 +287,7 @@ export const glossary = [
   },
   {
     "term": "Hallucination",
-    "definition": "LLM generating text that is factually incorrect or nonsensical.",
+    "definition": "LLM generating text that is factually incorrect or nonsensical. (updated reference)",
     "category": "NLP"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 471)
+// Automatically generated AI/ML Glossary data (index: 472)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -292,7 +292,7 @@ export const glossary = [
   },
   {
     "term": "Prompt Engineering",
-    "definition": "Designing and optimizing prompts to guide LLM responses.",
+    "definition": "Designing and optimizing prompts to guide LLM responses. (updated reference)",
     "category": "NLP"
   }
 ];

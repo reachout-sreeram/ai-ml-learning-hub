@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 543)
+// Automatically generated AI/ML Glossary data (index: 544)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -333,6 +333,11 @@ export const glossary = [
   {
     "term": "LoRA",
     "definition": "Low-Rank Adaptation technique for efficient fine-tuning of LLMs. (updated reference)",
+    "category": "NLP"
+  },
+  {
+    "term": "Context Window",
+    "definition": "Maximum number of tokens an LLM can process in a single request.",
     "category": "NLP"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 519)
+// Automatically generated AI/ML Glossary data (index: 520)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -322,7 +322,7 @@ export const glossary = [
   },
   {
     "term": "Distillation",
-    "definition": "Transferring knowledge from a large model to a smaller one.",
+    "definition": "Transferring knowledge from a large model to a smaller one. (updated reference)",
     "category": "Deep Learning"
   }
 ];

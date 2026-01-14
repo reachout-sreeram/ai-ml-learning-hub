@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 527)
+// Automatically generated AI/ML Glossary data (index: 528)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -327,7 +327,7 @@ export const glossary = [
   },
   {
     "term": "Mixture of Experts",
-    "definition": "Architecture activating only a subset of network pathways per input.",
+    "definition": "Architecture activating only a subset of network pathways per input. (updated reference)",
     "category": "Deep Learning"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 510)
+// Automatically generated AI/ML Glossary data (index: 511)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -313,6 +313,11 @@ export const glossary = [
   {
     "term": "Quantization",
     "definition": "Reducing precision of model weights to shrink size and speed up inference. (updated reference)",
+    "category": "Deep Learning"
+  },
+  {
+    "term": "Pruning",
+    "definition": "Removing redundant weights or connections in a neural network.",
     "category": "Deep Learning"
   }
 ];

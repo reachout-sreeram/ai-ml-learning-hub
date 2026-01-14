@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 544)
+// Automatically generated AI/ML Glossary data (index: 545)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -337,7 +337,7 @@ export const glossary = [
   },
   {
     "term": "Context Window",
-    "definition": "Maximum number of tokens an LLM can process in a single request.",
+    "definition": "Maximum number of tokens an LLM can process in a single request. (updated reference)",
     "category": "NLP"
   }
 ];

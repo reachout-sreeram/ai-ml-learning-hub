@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 518)
+// Automatically generated AI/ML Glossary data (index: 519)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -318,6 +318,11 @@ export const glossary = [
   {
     "term": "Pruning",
     "definition": "Removing redundant weights or connections in a neural network. (updated reference)",
+    "category": "Deep Learning"
+  },
+  {
+    "term": "Distillation",
+    "definition": "Transferring knowledge from a large model to a smaller one.",
     "category": "Deep Learning"
   }
 ];

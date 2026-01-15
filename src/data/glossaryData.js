@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 568)
+// Automatically generated AI/ML Glossary data (index: 569)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -352,7 +352,7 @@ export const glossary = [
   },
   {
     "term": "Top-k Sampling",
-    "definition": "Sampling from the top k most probable tokens.",
+    "definition": "Sampling from the top k most probable tokens. (updated reference)",
     "category": "NLP"
   }
 ];

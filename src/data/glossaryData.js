@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 584)
+// Automatically generated AI/ML Glossary data (index: 585)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -362,7 +362,7 @@ export const glossary = [
   },
   {
     "term": "DPO",
-    "definition": "Direct Preference Optimization for aligning LLMs without reinforcement learning.",
+    "definition": "Direct Preference Optimization for aligning LLMs without reinforcement learning. (updated reference)",
     "category": "NLP"
   }
 ];

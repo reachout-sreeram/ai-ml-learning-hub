@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 583)
+// Automatically generated AI/ML Glossary data (index: 584)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -359,5 +359,10 @@ export const glossary = [
     "term": "PPO",
     "definition": "Proximal Policy Optimization reinforcement learning algorithm. (updated reference)",
     "category": "General ML"
+  },
+  {
+    "term": "DPO",
+    "definition": "Direct Preference Optimization for aligning LLMs without reinforcement learning.",
+    "category": "NLP"
   }
 ];

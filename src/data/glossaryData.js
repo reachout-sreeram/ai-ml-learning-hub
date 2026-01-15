@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 552)
+// Automatically generated AI/ML Glossary data (index: 553)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -342,7 +342,7 @@ export const glossary = [
   },
   {
     "term": "Temperature",
-    "definition": "Parameter controlling randomness in generative sampling.",
+    "definition": "Parameter controlling randomness in generative sampling. (updated reference)",
     "category": "NLP"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 575)
+// Automatically generated AI/ML Glossary data (index: 576)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -354,5 +354,10 @@ export const glossary = [
     "term": "Top-k Sampling",
     "definition": "Sampling from the top k most probable tokens. (updated reference)",
     "category": "NLP"
+  },
+  {
+    "term": "PPO",
+    "definition": "Proximal Policy Optimization reinforcement learning algorithm.",
+    "category": "General ML"
   }
 ];

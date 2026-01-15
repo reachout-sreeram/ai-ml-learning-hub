@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 560)
+// Automatically generated AI/ML Glossary data (index: 561)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -347,7 +347,7 @@ export const glossary = [
   },
   {
     "term": "Top-p Sampling",
-    "definition": "Sampling from the smallest set of tokens whose cumulative probability exceeds p.",
+    "definition": "Sampling from the smallest set of tokens whose cumulative probability exceeds p. (updated reference)",
     "category": "NLP"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 625)
+// Automatically generated AI/ML Glossary data (index: 626)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -387,7 +387,7 @@ export const glossary = [
   },
   {
     "term": "AdaBoost",
-    "definition": "Adaptive Boosting ensemble classifier.",
+    "definition": "Adaptive Boosting ensemble classifier. (updated reference)",
     "category": "General ML"
   }
 ];

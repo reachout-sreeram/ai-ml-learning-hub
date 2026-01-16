@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 592)
+// Automatically generated AI/ML Glossary data (index: 593)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -367,7 +367,7 @@ export const glossary = [
   },
   {
     "term": "Semantic Search",
-    "definition": "Searching by meaning and context rather than exact keywords.",
+    "definition": "Searching by meaning and context rather than exact keywords. (updated reference)",
     "category": "NLP"
   }
 ];

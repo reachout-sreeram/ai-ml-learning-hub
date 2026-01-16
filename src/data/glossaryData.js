@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 608)
+// Automatically generated AI/ML Glossary data (index: 609)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -374,5 +374,10 @@ export const glossary = [
     "term": "Agentic Workflow",
     "definition": "Structuring LLM tasks as interactive, autonomous agents. (updated reference)",
     "category": "NLP"
+  },
+  {
+    "term": "Decision Boundary",
+    "definition": "Hyperplane separating classes in classification models.",
+    "category": "General ML"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 616)
+// Automatically generated AI/ML Glossary data (index: 617)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -378,6 +378,11 @@ export const glossary = [
   {
     "term": "Decision Boundary",
     "definition": "Hyperplane separating classes in classification models. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "Feature Selection",
+    "definition": "Selecting a subset of relevant features for model construction.",
     "category": "General ML"
   }
 ];

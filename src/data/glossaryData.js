@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 640)
+// Automatically generated AI/ML Glossary data (index: 641)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -393,6 +393,11 @@ export const glossary = [
   {
     "term": "XGBoost",
     "definition": "Extreme Gradient Boosting library optimized for speed and performance. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "LightGBM",
+    "definition": "Light Gradient Boosting Machine using tree-based learning algorithms.",
     "category": "General ML"
   }
 ];

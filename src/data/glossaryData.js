@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 656)
+// Automatically generated AI/ML Glossary data (index: 657)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -403,6 +403,11 @@ export const glossary = [
   {
     "term": "CatBoost",
     "definition": "Gradient boosting on decision trees with categorical features support. (updated reference)",
+    "category": "General ML"
+  },
+  {
+    "term": "Stochastic Gradient Descent",
+    "definition": "Iterative optimizer updating weights on single training examples.",
     "category": "General ML"
   }
 ];

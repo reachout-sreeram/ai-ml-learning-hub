@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 657)
+// Automatically generated AI/ML Glossary data (index: 658)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -407,7 +407,7 @@ export const glossary = [
   },
   {
     "term": "Stochastic Gradient Descent",
-    "definition": "Iterative optimizer updating weights on single training examples.",
+    "definition": "Iterative optimizer updating weights on single training examples. (updated reference)",
     "category": "General ML"
   }
 ];

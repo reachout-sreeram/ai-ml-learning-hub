@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 641)
+// Automatically generated AI/ML Glossary data (index: 642)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -397,7 +397,7 @@ export const glossary = [
   },
   {
     "term": "LightGBM",
-    "definition": "Light Gradient Boosting Machine using tree-based learning algorithms.",
+    "definition": "Light Gradient Boosting Machine using tree-based learning algorithms. (updated reference)",
     "category": "General ML"
   }
 ];

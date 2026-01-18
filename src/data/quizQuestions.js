@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 696)
+// Automatically generated AI/ML Quiz data (index: 697)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -20,6 +20,6 @@ export const questions = [
       "LLMs"
     ],
     "answer": "CNNs",
-    "explanation": "Convolutional Neural Networks (CNNs) are designed to process spatial data like images through filter convolutions."
+    "explanation": "Convolutional Neural Networks (CNNs) are designed to process spatial data like images through filter convolutions. (clarified validation)"
   }
 ];

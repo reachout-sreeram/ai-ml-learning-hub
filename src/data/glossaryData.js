@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 665)
+// Automatically generated AI/ML Glossary data (index: 666)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -412,7 +412,7 @@ export const glossary = [
   },
   {
     "term": "Relu Activation",
-    "definition": "Rectified Linear Unit activation function outputting max(0, x).",
+    "definition": "Rectified Linear Unit activation function outputting max(0, x). (updated reference)",
     "category": "Deep Learning"
   }
 ];

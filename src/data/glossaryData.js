@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Glossary data (index: 664)
+// Automatically generated AI/ML Glossary data (index: 665)
 export const glossary = [
   {
     "term": "Supervised Learning",
@@ -409,5 +409,10 @@ export const glossary = [
     "term": "Stochastic Gradient Descent",
     "definition": "Iterative optimizer updating weights on single training examples. (updated reference)",
     "category": "General ML"
+  },
+  {
+    "term": "Relu Activation",
+    "definition": "Rectified Linear Unit activation function outputting max(0, x).",
+    "category": "Deep Learning"
   }
 ];

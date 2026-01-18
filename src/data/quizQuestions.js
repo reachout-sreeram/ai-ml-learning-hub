@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 675)
+// Automatically generated AI/ML Quiz data (index: 676)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -9,6 +9,6 @@ export const questions = [
       "To reduce dimensionality"
     ],
     "answer": "To train a model on labeled inputs to predict outcomes",
-    "explanation": "Supervised learning utilizes labeled training data to learn mapping functions from inputs to outputs. (clarified validation) (clarified validation)"
+    "explanation": "Supervised learning utilizes labeled training data to learn mapping functions from inputs to outputs. (clarified validation) (clarified validation) (clarified validation)"
   }
 ];

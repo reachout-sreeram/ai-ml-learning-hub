@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 695)
+// Automatically generated AI/ML Quiz data (index: 696)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -10,5 +10,16 @@ export const questions = [
     ],
     "answer": "To train a model on labeled inputs to predict outcomes",
     "explanation": "Supervised learning utilizes labeled training data to learn mapping functions from inputs to outputs. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "Which architecture is primarily used for computer vision tasks?",
+    "options": [
+      "Transformers",
+      "RNNs",
+      "CNNs",
+      "LLMs"
+    ],
+    "answer": "CNNs",
+    "explanation": "Convolutional Neural Networks (CNNs) are designed to process spatial data like images through filter convolutions."
   }
 ];

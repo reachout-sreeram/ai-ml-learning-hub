@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 717)
+// Automatically generated AI/ML Quiz data (index: 718)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -21,5 +21,16 @@ export const questions = [
     ],
     "answer": "CNNs",
     "explanation": "Convolutional Neural Networks (CNNs) are designed to process spatial data like images through filter convolutions. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "What does the term 'Overfitting' mean?",
+    "options": [
+      "Model performs well on training data but poorly on test data",
+      "Model performs poorly on both training and test data",
+      "Model is too simple",
+      "Model requires too much training time"
+    ],
+    "answer": "Model performs well on training data but poorly on test data",
+    "explanation": "Overfitting occurs when a model fits the noise in the training data and fails to generalize to unseen test data."
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 741)
+// Automatically generated AI/ML Quiz data (index: 742)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -42,6 +42,6 @@ export const questions = [
       "Decision Trees"
     ],
     "answer": "Gradient Descent",
-    "explanation": "Gradient Descent is the foundational optimization algorithm used to minimize loss functions by updating weights."
+    "explanation": "Gradient Descent is the foundational optimization algorithm used to minimize loss functions by updating weights. (clarified validation)"
   }
 ];

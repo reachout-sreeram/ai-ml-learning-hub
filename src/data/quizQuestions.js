@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 740)
+// Automatically generated AI/ML Quiz data (index: 741)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -32,5 +32,16 @@ export const questions = [
     ],
     "answer": "Model performs well on training data but poorly on test data",
     "explanation": "Overfitting occurs when a model fits the noise in the training data and fails to generalize to unseen test data. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "Which optimization algorithm is widely used in deep learning?",
+    "options": [
+      "K-Means",
+      "Gradient Descent",
+      "Principal Component Analysis",
+      "Decision Trees"
+    ],
+    "answer": "Gradient Descent",
+    "explanation": "Gradient Descent is the foundational optimization algorithm used to minimize loss functions by updating weights."
   }
 ];

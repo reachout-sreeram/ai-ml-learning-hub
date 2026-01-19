@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 718)
+// Automatically generated AI/ML Quiz data (index: 719)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -31,6 +31,6 @@ export const questions = [
       "Model requires too much training time"
     ],
     "answer": "Model performs well on training data but poorly on test data",
-    "explanation": "Overfitting occurs when a model fits the noise in the training data and fails to generalize to unseen test data."
+    "explanation": "Overfitting occurs when a model fits the noise in the training data and fails to generalize to unseen test data. (clarified validation)"
   }
 ];

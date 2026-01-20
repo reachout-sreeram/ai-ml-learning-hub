@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 762)
+// Automatically generated AI/ML Quiz data (index: 763)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -43,5 +43,16 @@ export const questions = [
     ],
     "answer": "Gradient Descent",
     "explanation": "Gradient Descent is the foundational optimization algorithm used to minimize loss functions by updating weights. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "What is the self-attention mechanism key to?",
+    "options": [
+      "Decision Trees",
+      "Linear Regression",
+      "Transformer Models",
+      "Support Vector Machines"
+    ],
+    "answer": "Transformer Models",
+    "explanation": "Self-attention allows Transformers to weigh the importance of different words in a sequence dynamically."
   }
 ];

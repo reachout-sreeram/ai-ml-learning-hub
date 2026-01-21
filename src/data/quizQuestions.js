@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 807)
+// Automatically generated AI/ML Quiz data (index: 808)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -65,5 +65,16 @@ export const questions = [
     ],
     "answer": "F1 Score",
     "explanation": "The F1 Score is the harmonic mean of precision and recall, balancing both metrics. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "Which clustering algorithm partitions data points into K clusters?",
+    "options": [
+      "DBSCAN",
+      "K-Means",
+      "Hierarchical Clustering",
+      "PCA"
+    ],
+    "answer": "K-Means",
+    "explanation": "K-Means partitions n observations into K clusters in which each observation belongs to the cluster with the nearest mean."
   }
 ];

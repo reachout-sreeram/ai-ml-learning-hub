@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 771)
+// Automatically generated AI/ML Quiz data (index: 772)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -53,6 +53,6 @@ export const questions = [
       "Support Vector Machines"
     ],
     "answer": "Transformer Models",
-    "explanation": "Self-attention allows Transformers to weigh the importance of different words in a sequence dynamically. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+    "explanation": "Self-attention allows Transformers to weigh the importance of different words in a sequence dynamically. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
   }
 ];

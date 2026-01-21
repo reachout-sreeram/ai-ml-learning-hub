@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 785)
+// Automatically generated AI/ML Quiz data (index: 786)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -54,5 +54,16 @@ export const questions = [
     ],
     "answer": "Transformer Models",
     "explanation": "Self-attention allows Transformers to weigh the importance of different words in a sequence dynamically. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "What metric is the harmonic mean of precision and recall?",
+    "options": [
+      "Accuracy",
+      "F1 Score",
+      "ROC-AUC",
+      "Mean Squared Error"
+    ],
+    "answer": "F1 Score",
+    "explanation": "The F1 Score is the harmonic mean of precision and recall, balancing both metrics."
   }
 ];

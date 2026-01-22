@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 852)
+// Automatically generated AI/ML Quiz data (index: 853)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -87,5 +87,16 @@ export const questions = [
     ],
     "answer": "Retrieval-Augmented Generation",
     "explanation": "RAG stands for Retrieval-Augmented Generation, combining search-based document retrieval with generative LLMs. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "Which activation function outputs values in the range [-1, 1]?",
+    "options": [
+      "ReLU",
+      "Sigmoid",
+      "Tanh",
+      "Softmax"
+    ],
+    "answer": "Tanh",
+    "explanation": "The hyperbolic tangent (tanh) activation function outputs values between -1 and 1."
   }
 ];

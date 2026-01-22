@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 855)
+// Automatically generated AI/ML Quiz data (index: 856)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -97,6 +97,6 @@ export const questions = [
       "Softmax"
     ],
     "answer": "Tanh",
-    "explanation": "The hyperbolic tangent (tanh) activation function outputs values between -1 and 1. (clarified validation) (clarified validation)"
+    "explanation": "The hyperbolic tangent (tanh) activation function outputs values between -1 and 1. (clarified validation) (clarified validation) (clarified validation)"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 829)
+// Automatically generated AI/ML Quiz data (index: 830)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -76,5 +76,16 @@ export const questions = [
     ],
     "answer": "K-Means",
     "explanation": "K-Means partitions n observations into K clusters in which each observation belongs to the cluster with the nearest mean. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "What does RAG stand for in NLP?",
+    "options": [
+      "Retrieval-Augmented Generation",
+      "Recurrent Adversarial Group",
+      "Randomized Attribute Gradient",
+      "Rapid Activation Gate"
+    ],
+    "answer": "Retrieval-Augmented Generation",
+    "explanation": "RAG stands for Retrieval-Augmented Generation, combining search-based document retrieval with generative LLMs."
   }
 ];

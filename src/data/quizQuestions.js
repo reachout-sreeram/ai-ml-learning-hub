@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 847)
+// Automatically generated AI/ML Quiz data (index: 848)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -86,6 +86,6 @@ export const questions = [
       "Rapid Activation Gate"
     ],
     "answer": "Retrieval-Augmented Generation",
-    "explanation": "RAG stands for Retrieval-Augmented Generation, combining search-based document retrieval with generative LLMs. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+    "explanation": "RAG stands for Retrieval-Augmented Generation, combining search-based document retrieval with generative LLMs. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
   }
 ];

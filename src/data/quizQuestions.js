@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 820)
+// Automatically generated AI/ML Quiz data (index: 821)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -75,6 +75,6 @@ export const questions = [
       "PCA"
     ],
     "answer": "K-Means",
-    "explanation": "K-Means partitions n observations into K clusters in which each observation belongs to the cluster with the nearest mean. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+    "explanation": "K-Means partitions n observations into K clusters in which each observation belongs to the cluster with the nearest mean. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
   }
 ];

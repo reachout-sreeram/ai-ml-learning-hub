@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 874)
+// Automatically generated AI/ML Quiz data (index: 875)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -98,5 +98,16 @@ export const questions = [
     ],
     "answer": "Tanh",
     "explanation": "The hyperbolic tangent (tanh) activation function outputs values between -1 and 1. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "Which fine-tuning method parameterizes weight updates with low-rank matrices?",
+    "options": [
+      "Pruning",
+      "Quantization",
+      "LoRA",
+      "Distillation"
+    ],
+    "answer": "LoRA",
+    "explanation": "LoRA (Low-Rank Adaptation) freezes pre-trained weights and injects trainable rank decomposition matrices."
   }
 ];

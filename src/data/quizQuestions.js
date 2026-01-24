@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 907)
+// Automatically generated AI/ML Quiz data (index: 908)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -119,6 +119,6 @@ export const questions = [
       "R-squared"
     ],
     "answer": "ROC-AUC",
-    "explanation": "ROC-AUC stands for Receiver Operating Characteristic - Area Under Curve, which assesses classifier quality. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+    "explanation": "ROC-AUC stands for Receiver Operating Characteristic - Area Under Curve, which assesses classifier quality. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
   }
 ];

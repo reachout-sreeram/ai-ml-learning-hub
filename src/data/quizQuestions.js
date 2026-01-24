@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 919)
+// Automatically generated AI/ML Quiz data (index: 920)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -120,5 +120,16 @@ export const questions = [
     ],
     "answer": "ROC-AUC",
     "explanation": "ROC-AUC stands for Receiver Operating Characteristic - Area Under Curve, which assesses classifier quality. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "What problem occurs when gradients approach zero during backpropagation in deep networks?",
+    "options": [
+      "Exploding Gradients",
+      "Vanishing Gradients",
+      "Overfitting",
+      "Bias Drift"
+    ],
+    "answer": "Vanishing Gradients",
+    "explanation": "Vanishing gradients occur when small gradients multiply back through layers, making early layers learn very slowly."
   }
 ];

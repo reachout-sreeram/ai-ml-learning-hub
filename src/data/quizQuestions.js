@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 891)
+// Automatically generated AI/ML Quiz data (index: 892)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -108,6 +108,6 @@ export const questions = [
       "Distillation"
     ],
     "answer": "LoRA",
-    "explanation": "LoRA (Low-Rank Adaptation) freezes pre-trained weights and injects trainable rank decomposition matrices. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+    "explanation": "LoRA (Low-Rank Adaptation) freezes pre-trained weights and injects trainable rank decomposition matrices. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
   }
 ];

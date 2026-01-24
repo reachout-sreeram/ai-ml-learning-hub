@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 921)
+// Automatically generated AI/ML Quiz data (index: 922)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -130,6 +130,6 @@ export const questions = [
       "Bias Drift"
     ],
     "answer": "Vanishing Gradients",
-    "explanation": "Vanishing gradients occur when small gradients multiply back through layers, making early layers learn very slowly. (clarified validation)"
+    "explanation": "Vanishing gradients occur when small gradients multiply back through layers, making early layers learn very slowly. (clarified validation) (clarified validation)"
   }
 ];

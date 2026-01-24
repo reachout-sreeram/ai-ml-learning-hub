@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 897)
+// Automatically generated AI/ML Quiz data (index: 898)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -109,5 +109,16 @@ export const questions = [
     ],
     "answer": "LoRA",
     "explanation": "LoRA (Low-Rank Adaptation) freezes pre-trained weights and injects trainable rank decomposition matrices. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "Which evaluation metric measures the area under the true positive vs false positive curve?",
+    "options": [
+      "Mean Squared Error",
+      "F1 Score",
+      "ROC-AUC",
+      "R-squared"
+    ],
+    "answer": "ROC-AUC",
+    "explanation": "ROC-AUC stands for Receiver Operating Characteristic - Area Under Curve, which assesses classifier quality."
   }
 ];

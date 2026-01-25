@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 942)
+// Automatically generated AI/ML Quiz data (index: 943)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -131,5 +131,16 @@ export const questions = [
     ],
     "answer": "Vanishing Gradients",
     "explanation": "Vanishing gradients occur when small gradients multiply back through layers, making early layers learn very slowly. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "Which model family is LLaMA a part of?",
+    "options": [
+      "Diffusion Models",
+      "Autoregressive Transformers",
+      "Recurrent Neural Networks",
+      "GANs"
+    ],
+    "answer": "Autoregressive Transformers",
+    "explanation": "LLaMA models are autoregressive transformer models designed for language generation."
   }
 ];

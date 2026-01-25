@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 964)
+// Automatically generated AI/ML Quiz data (index: 965)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -142,5 +142,16 @@ export const questions = [
     ],
     "answer": "Autoregressive Transformers",
     "explanation": "LLaMA models are autoregressive transformer models designed for language generation. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "What is the primary objective of Principal Component Analysis (PCA)?",
+    "options": [
+      "To label unlabeled data points",
+      "To reduce dimensionality while retaining variance",
+      "To optimize neural network weights",
+      "To boost decision trees"
+    ],
+    "answer": "To reduce dimensionality while retaining variance",
+    "explanation": "PCA is a linear dimensionality reduction technique that finds orthogonal directions of maximum variance."
   }
 ];

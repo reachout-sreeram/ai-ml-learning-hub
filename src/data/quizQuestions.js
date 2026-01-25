@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 970)
+// Automatically generated AI/ML Quiz data (index: 971)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -152,6 +152,6 @@ export const questions = [
       "To boost decision trees"
     ],
     "answer": "To reduce dimensionality while retaining variance",
-    "explanation": "PCA is a linear dimensionality reduction technique that finds orthogonal directions of maximum variance. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+    "explanation": "PCA is a linear dimensionality reduction technique that finds orthogonal directions of maximum variance. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
   }
 ];

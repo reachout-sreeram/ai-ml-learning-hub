@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 948)
+// Automatically generated AI/ML Quiz data (index: 949)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -141,6 +141,6 @@ export const questions = [
       "GANs"
     ],
     "answer": "Autoregressive Transformers",
-    "explanation": "LLaMA models are autoregressive transformer models designed for language generation. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+    "explanation": "LLaMA models are autoregressive transformer models designed for language generation. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
   }
 ];

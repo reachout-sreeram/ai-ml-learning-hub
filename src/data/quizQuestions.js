@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 986)
+// Automatically generated AI/ML Quiz data (index: 987)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -153,5 +153,16 @@ export const questions = [
     ],
     "answer": "To reduce dimensionality while retaining variance",
     "explanation": "PCA is a linear dimensionality reduction technique that finds orthogonal directions of maximum variance. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "What parameter adjusts randomness in LLM text generation?",
+    "options": [
+      "Learning Rate",
+      "Dropout",
+      "Temperature",
+      "Batch Size"
+    ],
+    "answer": "Temperature",
+    "explanation": "Temperature scales logits before softmax, where lower temperature makes predictions more deterministic and higher makes them random."
   }
 ];

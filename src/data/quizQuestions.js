@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 987)
+// Automatically generated AI/ML Quiz data (index: 988)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -163,6 +163,6 @@ export const questions = [
       "Batch Size"
     ],
     "answer": "Temperature",
-    "explanation": "Temperature scales logits before softmax, where lower temperature makes predictions more deterministic and higher makes them random."
+    "explanation": "Temperature scales logits before softmax, where lower temperature makes predictions more deterministic and higher makes them random. (clarified validation)"
   }
 ];

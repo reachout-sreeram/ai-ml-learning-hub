@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 1011)
+// Automatically generated AI/ML Quiz data (index: 1012)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -174,6 +174,6 @@ export const questions = [
       "Hyperparameter sensitivity"
     ],
     "answer": "The classification performance of a model",
-    "explanation": "A confusion matrix shows counts of true positives, true negatives, false positives, and false negatives. (clarified validation)"
+    "explanation": "A confusion matrix shows counts of true positives, true negatives, false positives, and false negatives. (clarified validation) (clarified validation)"
   }
 ];

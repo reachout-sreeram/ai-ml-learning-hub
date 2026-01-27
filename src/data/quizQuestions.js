@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 1037)
+// Automatically generated AI/ML Quiz data (index: 1038)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -185,6 +185,6 @@ export const questions = [
       "Support Vector Machines"
     ],
     "answer": "Gradient Boosting",
-    "explanation": "Boosting methods train models sequentially, with each subsequent model focusing on the residuals/errors of its predecessor. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+    "explanation": "Boosting methods train models sequentially, with each subsequent model focusing on the residuals/errors of its predecessor. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
   }
 ];

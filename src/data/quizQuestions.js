@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 1009)
+// Automatically generated AI/ML Quiz data (index: 1010)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -164,5 +164,16 @@ export const questions = [
     ],
     "answer": "Temperature",
     "explanation": "Temperature scales logits before softmax, where lower temperature makes predictions more deterministic and higher makes them random. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "What does a confusion matrix help evaluate?",
+    "options": [
+      "The training speed of a model",
+      "The classification performance of a model",
+      "The dimensionality of a dataset",
+      "Hyperparameter sensitivity"
+    ],
+    "answer": "The classification performance of a model",
+    "explanation": "A confusion matrix shows counts of true positives, true negatives, false positives, and false negatives."
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 1031)
+// Automatically generated AI/ML Quiz data (index: 1032)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -175,5 +175,16 @@ export const questions = [
     ],
     "answer": "The classification performance of a model",
     "explanation": "A confusion matrix shows counts of true positives, true negatives, false positives, and false negatives. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "Which algorithm trains weak learners sequentially to correct previous errors?",
+    "options": [
+      "K-Means",
+      "Gradient Boosting",
+      "Principal Component Analysis",
+      "Support Vector Machines"
+    ],
+    "answer": "Gradient Boosting",
+    "explanation": "Boosting methods train models sequentially, with each subsequent model focusing on the residuals/errors of its predecessor."
   }
 ];

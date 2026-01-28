@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 1054)
+// Automatically generated AI/ML Quiz data (index: 1055)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -186,5 +186,16 @@ export const questions = [
     ],
     "answer": "Gradient Boosting",
     "explanation": "Boosting methods train models sequentially, with each subsequent model focusing on the residuals/errors of its predecessor. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "What does an Autoencoder attempt to reconstruct?",
+    "options": [
+      "The target label",
+      "The original input data",
+      "The loss gradient",
+      "The cluster centers"
+    ],
+    "answer": "The original input data",
+    "explanation": "Autoencoders compress input data into a latent representation and attempt to reconstruct the input at the output layer."
   }
 ];

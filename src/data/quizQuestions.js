@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 1076)
+// Automatically generated AI/ML Quiz data (index: 1077)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -197,5 +197,16 @@ export const questions = [
     ],
     "answer": "The original input data",
     "explanation": "Autoencoders compress input data into a latent representation and attempt to reconstruct the input at the output layer. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "What technique prevents overfitting by adding a penalty term based on weight magnitude?",
+    "options": [
+      "Batch Normalization",
+      "Dropout",
+      "Regularization",
+      "Early Stopping"
+    ],
+    "answer": "Regularization",
+    "explanation": "L1 (Lasso) and L2 (Ridge) regularization add penalty terms to the loss function to prevent weight values from becoming too large."
   }
 ];

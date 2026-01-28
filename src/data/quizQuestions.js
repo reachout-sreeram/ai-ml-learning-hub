@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 1067)
+// Automatically generated AI/ML Quiz data (index: 1068)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -196,6 +196,6 @@ export const questions = [
       "The cluster centers"
     ],
     "answer": "The original input data",
-    "explanation": "Autoencoders compress input data into a latent representation and attempt to reconstruct the input at the output layer. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+    "explanation": "Autoencoders compress input data into a latent representation and attempt to reconstruct the input at the output layer. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
   }
 ];

@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 1100)
+// Automatically generated AI/ML Quiz data (index: 1101)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -218,6 +218,6 @@ export const questions = [
       "All of the above"
     ],
     "answer": "All of the above",
-    "explanation": "Sigmoid, ReLU, and Tanh are all non-linear activation functions necessary for neural networks to learn non-linear functions."
+    "explanation": "Sigmoid, ReLU, and Tanh are all non-linear activation functions necessary for neural networks to learn non-linear functions. (clarified validation)"
   }
 ];

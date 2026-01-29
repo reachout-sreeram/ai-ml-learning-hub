@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 1078)
+// Automatically generated AI/ML Quiz data (index: 1079)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -207,6 +207,6 @@ export const questions = [
       "Early Stopping"
     ],
     "answer": "Regularization",
-    "explanation": "L1 (Lasso) and L2 (Ridge) regularization add penalty terms to the loss function to prevent weight values from becoming too large. (clarified validation)"
+    "explanation": "L1 (Lasso) and L2 (Ridge) regularization add penalty terms to the loss function to prevent weight values from becoming too large. (clarified validation) (clarified validation)"
   }
 ];

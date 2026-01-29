@@ -1,4 +1,4 @@
-// Automatically generated AI/ML Quiz data (index: 1099)
+// Automatically generated AI/ML Quiz data (index: 1100)
 export const questions = [
   {
     "question": "What is the primary goal of Supervised Learning?",
@@ -208,5 +208,16 @@ export const questions = [
     ],
     "answer": "Regularization",
     "explanation": "L1 (Lasso) and L2 (Ridge) regularization add penalty terms to the loss function to prevent weight values from becoming too large. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
+  },
+  {
+    "question": "Which of these is a non-linear activation function?",
+    "options": [
+      "Sigmoid",
+      "ReLU",
+      "Tanh",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "Sigmoid, ReLU, and Tanh are all non-linear activation functions necessary for neural networks to learn non-linear functions."
   }
 ];

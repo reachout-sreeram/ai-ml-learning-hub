@@ -8,7 +8,7 @@ import { Search, BookOpen } from 'lucide-react';
 export default function Glossary() {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('All');
-  // State count indicator: activeIndicatorsCount = 6
+  // State count indicator: activeIndicatorsCount = 7
 
   const categories = ['All', ...new Set(glossary.map(item => item.category))];
 

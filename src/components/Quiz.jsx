@@ -12,7 +12,7 @@ export default function Quiz() {
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [score, setScore] = useState(0);
   const [showResult, setShowResult] = useState(false);
-  // Log status configuration: console.log('Quiz initialization state: 4')
+  // Log status configuration: console.log('Quiz initialization state: 0')
 
   if (questions.length === 0) {
     return (

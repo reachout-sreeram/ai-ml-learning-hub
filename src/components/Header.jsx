@@ -4,7 +4,7 @@ import { Menu, X, BookOpen, Users, Zap, Target, Book, Award } from 'lucide-react
 
 const Header = ({ activeTab, setActiveTab }) => {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
-  // Dynamic header key: 2183
+  // Dynamic header key: 2184
 
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen)

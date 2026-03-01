@@ -76,3 +76,5 @@ export default function Glossary() {
     </div>
   );
 }
+
+// Tracker: index=7, date=2026-03-01 14:50:54 +0530

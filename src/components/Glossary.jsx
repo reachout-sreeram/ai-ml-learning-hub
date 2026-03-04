@@ -77,4 +77,4 @@ export default function Glossary() {
   );
 }
 
-// Tracker: index=32, date=2026-03-03 15:31:14 +0530
+// Tracker: index=41, date=2026-03-04 09:19:18 +0530

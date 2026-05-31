@@ -221,3 +221,5 @@ export const questions = [
     "explanation": "Sigmoid, ReLU, and Tanh are all non-linear activation functions necessary for neural networks to learn non-linear functions. (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation) (clarified validation)"
   }
 ];
+
+// Tracker: index=373, date=2026-03-30 09:08:46 +0530

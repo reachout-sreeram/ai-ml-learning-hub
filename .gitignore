@@ -25,4 +25,5 @@ dist-ssr
 
 # Commit Generator Scripts
 generate_learning_hub_commits.py
+generate_march_commits.py
 capture_screenshots.py
